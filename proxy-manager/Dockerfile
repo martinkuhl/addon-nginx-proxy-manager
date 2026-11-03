@@ -30,7 +30,7 @@ RUN \
         build-essential=12.12 \
         git=1:2.47.3-0+deb13u1 \
         gnupg=2.4.7-21+deb13u1 \
-        libffi-dev=3.4.8-2 \
+        libffi-dev=3.4.8-r0 \
         libssl-dev=3.5.7-1~deb13u3 \
         patch=2.8-2 \
         python3-dev=3.13.5-1 \
